@@ -1,2 +1,2 @@
-# spotily
+# spoti
 Spotify for free
